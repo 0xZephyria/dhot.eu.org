@@ -12,8 +12,8 @@ Performance basics are covered: assets are minified into single CSS and JS files
 
 
 
-## Misc:
+## Founder:
 
 * Follow Karan Dhot: [Twitter](https://twitter.com/KaranKambojDhot), [GitHub](https://github.com/DHOTNetworks)
 
-n
+
