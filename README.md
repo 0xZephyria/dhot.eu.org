@@ -2,7 +2,7 @@
 
 
 
-DHOT Networks Website is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+DHOT Networks Website is a modern and sleek website crafted by creatives from industry. The Site is used to serve as a single page portfolio, the perfect static webpage.
 
 The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
 
